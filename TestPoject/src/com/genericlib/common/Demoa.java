@@ -17,7 +17,7 @@ public class Demoa {
 		System.out.println(a1);
 		System.out.println("***********************");
 
-		System.out.println("Myname is the Chiku");
+	
 	}
 
 }
