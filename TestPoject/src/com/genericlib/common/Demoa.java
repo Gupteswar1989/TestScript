@@ -16,6 +16,7 @@ public class Demoa {
 		a1=10;
 		
 		System.out.println(a1);
+		System.out.println("***********************");
 	}
 
 }
