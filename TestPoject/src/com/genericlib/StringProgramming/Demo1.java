@@ -10,7 +10,7 @@ public class Demo1 {
 		
 		String s2=s1.concat("winter");
 		System.out.println(s2);
-		s1=s1.concat("winter");
+		s1=s1.concat("winte");
 		System.out.println(s1);
 		s1=s1.concat("fail");
 		System.out.println(s1);
